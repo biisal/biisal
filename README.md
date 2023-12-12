@@ -25,7 +25,7 @@
 
 | Language/Tool | Proficiency |
 | -------------- | ----------- |
-| Python         | Intermediate |
+| JavaSript         | Intermediate |
 | Java           | Besics     |
 | HTML5          | Intermediate |
 | C              | First Lng.     |
@@ -37,8 +37,7 @@
 <!-- Projects Section -->
 ## 🔥 Featured Projects
 
-- [Project 1: Awesome Python Project](https://github.com/Aeditx03/awesome-python-project) - A description of your project goes here.
-- [Project 2: Java Masterpiece](https://github.com/Aeditx03/java-masterpiece) - Another exciting project you want to highlight.
+- [Project 1: Awesome Python Project](https://github.com/biisal/awesome-python-project) - A description of your project goes here.
 <!-- Social Media Section -->
 ## 🌐 Social Media
 
