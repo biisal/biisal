@@ -32,8 +32,8 @@ const skills = {
 ```
 <p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
  
-<br>
-## Languages and Tools
+## 👨🏻‍💻 Languages and Tools
+
   
   <p align="left">
     <a href="https://www.w3schools.com/html/" target="_blank">
@@ -95,13 +95,25 @@ const skills = {
     </a>
 </div>
 
-<b>👀Profile Views</b> ![](https://komarev.com/ghpvc/?username=your-username)
+## 👀Profile Views
+|  |  |
+| --- | --- |
+|![](https://komarev.com/ghpvc/?username=your-username)|
+| | |
 
 <!-- GitHub Stats Section -->
+## Statistical Datas
 
-## 📈 GitHub Stats
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=biisal&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
+       alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=biisal&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
+       alt="biisal" />
+</p>
 
-![Biisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biisal&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biisal&theme=green_nur)](https://git.io/streak-stats)
+
+
 
 <!-- Footer Section -->
 ## 📫 Let's Connect!
