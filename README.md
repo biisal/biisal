@@ -50,6 +50,9 @@
     </a>
 </div>
 
+👀 Profile Views:  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+
 <!-- GitHub Stats Section -->
 
 ## 📈 GitHub Stats
