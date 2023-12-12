@@ -76,10 +76,13 @@ const skills = {
 
 
 
-<!-- Projects Section -->
-## 🔥 Featured Projects
+## Special Repository
 
-- [Project 1: Awesome Python Project](https://github.com/biisal/awesome-python-project) - A description of your project goes here.
+|  |  |
+| --- | --- |
+| [![BAR2308TT](https://github-readme-stats.vercel.app/api/pin/?username=biisal&repo=fileStream&theme=tokyonight)](https://github.com/biisal/) |
+| | |
+
 <!-- Social Media Section -->
 ## 🌐 Social Media
 
