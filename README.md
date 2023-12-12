@@ -17,11 +17,53 @@
 - 🔭 I'm constantly exploring new technologies and building exciting projects.
 - 💡 I believe in the power of technology to make the world a better place.
 
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven't+Any+Open+Projects.;.;+Contact+Me+For+Bot+Repos+in+Low+Price+.)
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hare+Krishna+😊;Welcome+To+My+Profile.;Bolo+Jai+Shree+Ram.)
 
-<!-- Skills Section -->
-<!-- Skills Section -->
 ## 🛠️ Skills
+```javascript
+
+const skills = {
+  Web_designing : "FullStack" | ["HTML", "CSS", "Javascript"],
+  Programing_language : ["C", "C++", "HTML", "CSS", "Javascript"],
+  Learning : ["DataBase Handeling" "Js Frameworks & js libraries"],
+  Extra_but_important_skills : ["React Js" , "Express Js" , "Mongo DB"]
+}
+      
+```
+<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
+ 
+<br>
+## Languages and Tools
+  
+  <p align="left">
+    <a href="https://www.w3schools.com/html/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/js/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/c/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="vscode" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+      <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt="mongodb" width="40" height="40"/>
+    </a>
+  </p>
 
 | Language/Tool | Proficiency |
 | -------------- | ----------- |
@@ -50,9 +92,7 @@
     </a>
 </div>
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+<b>👀Profile Views</b> ![](https://komarev.com/ghpvc/?username=your-username)
 
 <!-- GitHub Stats Section -->
 
