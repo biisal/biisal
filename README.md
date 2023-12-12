@@ -80,7 +80,7 @@ const skills = {
 
 |  |  |
 | --- | --- |
-| [![BAR2308TT](https://github-readme-stats.vercel.app/api/pin/?username=biisal&repo=fileStream&theme=tokyonight)](https://github.com/biisal/) |
+|[![biisal-file-stream-pro](https://github-readme-stats.vercel.app/api/pin/?username=biisal&repo=biisal-file-stream-pro&theme=tokyonight)](https://github.com/biisal/biisal-file-stream-pro) |
 | | |
 
 <!-- Social Media Section -->
