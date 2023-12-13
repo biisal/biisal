@@ -105,7 +105,7 @@ const skills = {
 ## Statistical Datas
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=biisal&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biisal&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
        alt="GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=biisal&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
        alt="biisal" />
