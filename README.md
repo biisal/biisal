@@ -24,7 +24,7 @@
 
 const skills = {
   Web_designing : "FullStack" | ["HTML", "CSS", "Javascript"],
-  Programing_language : ["C", "C++", "HTML", "CSS", "Javascript"],
+  Programing_language : ["C", "C++", "HTML", "CSS", "Javascript" , "Python"],
   Learning : ["DataBase Handeling" "Js Frameworks & js libraries"],
   Extra_but_important_skills : ["React Js" , "Express Js" , "Mongo DB"]
 }
