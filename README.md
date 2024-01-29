@@ -22,12 +22,14 @@
 ## 🛠️ Skills
 ```javascript
 
-const skills = {
-  Web_designing : "FullStack" | ["HTML", "CSS", "Javascript"],
-  Programing_language : ["C", "C++", "HTML", "CSS", "Javascript" , "Python"],
-  Learning : ["DataBase Handeling" "Js Frameworks & js libraries"],
-  Extra_but_important_skills : ["React Js" , "Express Js" , "Mongo DB"]
+const mySkills = {
+  LanguagePalette: ["Pythonic Wonders", "JavaScript Sorcery (ES6+)"],
+  WebArtistry: ["Canvas Crafting (HTML/CSS/JavaScript)", "Digital Wizardry (Flask/Django)"],
+  DataWhispers: ["PostgreSQL Secrets", "Motor MongoDB (async enchantments)", "PyMongo (Mongo Magics)"],
+  ExploringNewRealms: ["Mastery of Enigmatic JS Frameworks & Libraries", "Journeying through the Django Domain"],
+  SignatureStyle: ["React Revelations", "Crafting Code Elegance"]
 }
+
       
 ```
 <p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
