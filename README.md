@@ -17,11 +17,10 @@
 - 🔭 I'm constantly exploring new technologies and building exciting projects.
 - 💡 I believe in the power of technology to make the world a better place.
 
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hare+Krishna+😊;Welcome+To+My+Profile.;Bolo+Jai+Shree+Ram.)
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hare+Krishna+😊;Welcome+To+My+Profile.;Jai+Shree+Ram.)
 
 ## 🛠️ Skills
 ```javascript
-
 const mySkills = {
   LanguagePalette: ["Pythonic Wonders", "JavaScript Sorcery (ES6+)"],
   WebArtistry: ["Canvas Crafting (HTML/CSS/JavaScript)", "Digital Wizardry (Flask/Django)"],
@@ -29,52 +28,32 @@ const mySkills = {
   ExploringNewRealms: ["Mastery of Enigmatic JS Frameworks & Libraries", "Journeying through the Django Domain"],
   SignatureStyle: ["React Revelations", "Crafting Code Elegance"]
 }
-
-      
 ```
-<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
  
 ## 👨🏻‍💻 Languages and Tools
+[![language and tools](https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,flask,react,vite,django,nextjs,mongodb,postgresql,redis,prisma,tailwindcss,vscode,git,github,docker,linux,heroku,vercel,cloudflare&perline=10)](https://avisek.online)
 
-  
-  <p align="left">
-    <a href="https://www.w3schools.com/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/js/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/c/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" alt="vscode" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-      <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt="mongodb" width="40" height="40"/>
-    </a>
-  </p>
 
-| Language/Tool | Proficiency |
-| -------------- | ----------- |
-| JavaSript         | Intermediate |
-| Java           | Besics     |
-| HTML5          | Intermediate |
-| C              | First Lng.     |
-| VS Code        | Most Used sof.    |
-| css        | Advanced |
+
+
+### **Technical Skills Overview**
+
+
+
+| **Skill/Tool**       | **Proficiency Level**        | **Description**                                                                  | 
+|-----------------------|------------------------------|----------------------------------------------------------------------------------|
+| **JavaScript**        | Advancing                    | Proficient in modern JavaScript, including ES6+ features and asynchronous patterns. |
+| **Python**            | Advancing                    | Strong experience with Django, DRF, and backend development.                      |
+| **TypeScript**        | Advancing                    | Advanced understanding of TypeScript for strong typing and scalable applications. |
+| **HTML5**             | Advancing                    | Expertise in semantic HTML, accessibility, and responsive web design.            |
+| **CSS**               | Advancing                    | Skilled in CSS3, Flexbox, Grid, and modern design principles.                    |
+| **VS Code**           | Most Used IDE                | Highly efficient in using VS Code with custom extensions for various languages.   |
+| **PostgreSQL**        | Intermediate                 | Knowledgeable in relational databases and SQL queries.                           |
+| **MongoDB**           | Intermediate                 | Experience in NoSQL databases and data modeling with MongoDB.                    |
+| **Docker**            | Learning                     | Gaining knowledge of containerization for efficient development and deployment.  |
+
+
+ 
 
 
 
