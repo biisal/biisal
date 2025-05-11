@@ -50,6 +50,8 @@
        alt="GitHub stats" />
   <img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=biisal&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
        alt="biisal" />
+
+<img src="https://api.codeltix.com/api/v1/svg/leetcode?username=biisal" alt="skills" width="100%" />
 </a>
 
 
