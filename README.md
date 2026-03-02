@@ -36,7 +36,7 @@
 
 <div style="width:75%">
 
-[![language and tools](https://skillicons.dev/icons?i=go,python,js,ts,html,css,fastapi,flask,react,vite,django,nextjs,mongodb,postgresql,redis,prisma,tailwindcss,vscode,git,github,docker,linux,heroku,vercel,cloudflare&perline=10)](https://avisek.codeltix.com)
+[![language and tools](https://skillicons.dev/icons?i=go,python,js,ts,html,css,fastapi,flask,react,vite,django,nextjs,mongodb,postgresql,redis,prisma,tailwindcss,vscode,git,github,docker,linux,heroku,vercel,cloudflare&perline=10)](https://biisal.codeltix.com)
 
 </div>
 
