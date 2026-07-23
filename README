@@ -5,12 +5,12 @@ Portfolio - https://codeltix.com
 
 Some Projects
 -------------
-https://github.com/biisal/rowsql - A lightweight, cross-platform database management tool for PostgreSQL, MySQL, and SQLite with a modern web-based interface.
+* RowSQL - https://github.com/biisal/rowsql - A lightweight, cross-platform database management tool for PostgreSQL, MySQL, and SQLite with a modern web-based interface.
 
-https://github.com/biisal/godo - A fully autonomous AI Agent built for the Terminal to handle your everyday tasks.
+* Godo - https://github.com/biisal/godo - A fully autonomous AI Agent built for the Terminal to handle your everyday tasks.
 
-https://github.com/biisal/fastrdb - A Python package for FastAPI that integrates Redis caching and SQLAlchemy with strong typing support.
+* FastRDB - https://github.com/biisal/fastrdb - A Python package for FastAPI that integrates Redis caching and SQLAlchemy with strong typing support.
 
-https://gitalink.in – A site to read and listen to the Bhagavad Gita consistently with AI explanations in simple language.
+* GitaLink - https://gitalink.in - A site to read and listen to the Bhagavad Gita consistently with AI explanations in simple language.
 
-https://studytube.codeltix.com - A YouTube Clone but With Study Mode
+* StudyTube - https://studytube.codeltix.com - A YouTube clone with Study Mode.
