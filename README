@@ -1,8 +1,20 @@
-Hi, I'm Biisal 🙏
-=================
+Hi, I'm Biisal
+===============
 
 Portfolio - https://codeltix.com
 Blogs - https://codeltix.com/blog
+
+Tech Stack
+----------
+Languages  : Go, Python, TypeScript, JavaScript
+Also know  : Lua, C
+Frontend   : Next.js, React, Sveltekit Tailwind CSS
+Backend    : FastAPI, NestJS, Go, REST APIs, WebSockets, JWT Auth
+Data       : PostgreSQL, MySQL, SQLite, MongoDB, Redis, SQLc,
+             Goose, SqlX, Prisma, SQLAlchemy, Gorm 
+AI         : LLM APIs, AI agents/Harness
+Deployment : Docker, AWS, Railway, VPS, Nginx, Caddy
+Tooling    : Linux, Git, GitHub Actions, Turborepo
 
 Some Projects
 -------------
