@@ -8,10 +8,10 @@ Tech Stack
 ----------
 Languages  : Go, Python, TypeScript, JavaScript
 Also know  : Lua, C
-Frontend   : Next.js, React, Sveltekit Tailwind CSS
-Backend    : FastAPI, NestJS, Go, REST APIs, WebSockets, JWT Auth
+Frontend   : Next.js, React, Sveltekit Tailwind CSS and So on...
+Backend    : Go, NestJS, FastAPI, REST APIs, WebSockets, JWT Auth Blah Blah...
 Data       : PostgreSQL, MySQL, SQLite, MongoDB, Redis, SQLc,
-             Goose, SqlX, Prisma, SQLAlchemy, Gorm 
+             Goose, SqlX, Prisma, SQLAlchemy, Gorm, Whatever requires 
 AI         : LLM APIs, AI agents/Harness
 Deployment : Docker, AWS, Railway, VPS, Nginx, Caddy
 Tooling    : Linux, Git, GitHub Actions, Turborepo
@@ -20,6 +20,6 @@ Some Projects
 -------------
 * RowSQL - https://github.com/biisal/rowsql - Cross-platform database manager for PostgreSQL, MySQL, and SQLite.
 * Godo - https://github.com/biisal/godo - Autonomous AI terminal agent for everyday tasks.
-* FastRDB - https://github.com/biisal/fastrdb - FastAPI package for Redis caching and SQLAlchemy.
 * GitaLink - https://gitalink.in - Read and Listen the Bhagavad Gita in order with progress tracking and AI explanations
+* FastRDB - https://github.com/biisal/fastrdb - FastAPI package for Redis caching and SQLAlchemy.
 * StudyTube - https://studytube.codeltix.com - YouTube clone but with Study Mode
